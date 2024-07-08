@@ -17,3 +17,40 @@ _Date And Time Functions
     Will Cover Later
     - date()
     - date_format()
+    
+    ###########  Date And Time Functions 2
+
+    - date_format()
+
+    [Year]
+    - Y => Four Digits
+    - y => Two Digits
+
+    [Month]
+    - m => 01-12
+    - M => Text Month => 3 Letters
+    - F => Full Text
+    - t => Number Of Days In This Month
+
+    [Day]
+    - d => Day of The Month 1-31
+    - j => Day Without Leading Zero
+    - D => Text Day => 3 Letters
+    - l => Full Text
+    - z => Day Of The Year 0-365
+    - S => st, rd, nth Suffix For Day Of The Month
+
+    [Time]
+    - a => Small am/pm
+    - A => Capital AM/PM
+
+    [Hour]
+    - g => 1-12
+    - h => 01-12
+    - G => 0-23
+    - H => 00-23
+
+    [Minutes, Seconds, Micro]
+    - i => 00-59
+    - s => 00-59
+    - u => Microseconds
