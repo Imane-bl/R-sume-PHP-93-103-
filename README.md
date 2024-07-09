@@ -54,3 +54,7 @@ _Date And Time Functions
     - i => 00-59
     - s => 00-59
     - u => Microseconds
+########97 Date And Time Functions
+
+    - date_diff()
+    - strtotime(DateTime, Base)
