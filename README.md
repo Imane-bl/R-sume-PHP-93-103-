@@ -73,3 +73,8 @@ _Date And Time Functions
     --- Domain
     --- Secure
     --- HTTP_Only
+    #############99
+      Cookies
+    - Modify
+    - Delete
+    - Add Array
