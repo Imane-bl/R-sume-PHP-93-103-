@@ -54,3 +54,22 @@ _Date And Time Functions
     - i => 00-59
     - s => 00-59
     - u => Microseconds
+ ########97 Date And Time Functions
+
+    - date_diff()
+    - strtotime(DateTime, Base)
+############# 98Cookies
+
+    - Examples
+    --- Popup
+    --- Custom Settings
+    --- Remember Me => Login
+
+    - setcookie(Name[Required], Value, Expire, Path, Domain, Secure, HTTP_Only);
+    --- Name
+    --- Value
+    --- Expire
+    --- Path
+    --- Domain
+    --- Secure
+    --- HTTP_Only
