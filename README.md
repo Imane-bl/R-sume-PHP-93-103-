@@ -1,5 +1,5 @@
-#######
-_Date And Time Functions
+
+______________Date And Time Functions__________________
 
     - date_default_timezone_get()
 
