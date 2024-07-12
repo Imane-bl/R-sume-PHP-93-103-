@@ -58,7 +58,8 @@ _Date And Time Functions
 
     - date_diff()
     - strtotime(DateTime, Base)
-############# 98Cookies
+    
+______________98Cookies___________________________________________________
 
     - Examples
     --- Popup
@@ -73,7 +74,7 @@ _Date And Time Functions
     --- Domain
     --- Secure
     --- HTTP_Only
-    #############99
+_____________________99
       Cookies
     - Modify
     - Delete
