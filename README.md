@@ -59,21 +59,7 @@ ______________Date And Time Functions__________________
     - date_diff()
     - strtotime(DateTime, Base)
     
-______________98Cookies___________________________________________________
 
-    - Examples
-    --- Popup
-    --- Custom Settings
-    --- Remember Me => Login
-
-    - setcookie(Name[Required], Value, Expire, Path, Domain, Secure, HTTP_Only);
-    --- Name
-    --- Value
-    --- Expire
-    --- Path
-    --- Domain
-    --- Secure
-    --- HTTP_Only
 _____________________99
       Cookies
     - Modify
