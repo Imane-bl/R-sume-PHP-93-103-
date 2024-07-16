@@ -55,7 +55,7 @@
   echo date_format($d, "Y-F") . "<br>";
   echo date_format($d, "t") . "<br>"; // 30
 
-  // Day
+  // Day D= short day 
   echo date_format($d, "Y-m-d") . "<br>";
   echo date_format($d, "Y-m-j") . "<br>";
   echo date_format($d, "Y-m-D") . "<br>";
