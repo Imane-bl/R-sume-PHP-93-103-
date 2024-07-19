@@ -18,7 +18,7 @@ ______________Date And Time Functions__________________
     - date()
     - date_format()
     
-    ###########  Date And Time Functions 2
+___ Date And Time Functions 2
 
     - date_format()
 
@@ -54,7 +54,7 @@ ______________Date And Time Functions__________________
     - i => 00-59
     - s => 00-59
     - u => Microseconds
- ########97 Date And Time Functions
+____97 Date And Time Functions
 
     - date_diff()
     - strtotime(DateTime, Base)
